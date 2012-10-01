@@ -2,7 +2,7 @@
 
 ## Installing
 
-Check [Redmine plugin installation procedure](http://www.redmine.org/wiki/plugins).
+Check [Redmine plugin installation procedure](http://www.redmine.org/projects/redmine/wiki/Plugins).
 
 This plugin has been developped tested on Redmine 2.1-stable branch. 
 It should work on 2.x
